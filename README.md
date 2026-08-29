@@ -9,4 +9,5 @@ BLT Crispy Big Mac Tortilla Pockets, Original Hot Brown, Skills.
 
 Through this project, I practiced:
 
+
 Creating a basic HTML document Using headings and paragraphs Creating ordered and unordered lists Adding images and links Organizing content with semantic HTML Using Git and GitHub
