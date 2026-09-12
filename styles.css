@@ -1,0 +1,120 @@
+.h1 {
+    background: lightgoldenrodyellow;
+    color: darkolivegreen;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 3px;
+
+}
+ .button {
+   display: inline-block;
+   background: lightgoldenrodyellow;
+   color:darkolivegreen;
+   font-family: Arial, sans-serif;
+   font-weight: bold;
+   text-align: center;
+   font-size: 32px;
+   margin: 10px;
+   padding: 40px 80px;
+   width: 500px;
+   box-sizing: border-box;
+   border: 5px solid darkolivegreen;
+ }
+ 
+ ul {
+    padding: 0;
+    text-align: center;
+ }
+
+ .name {
+    background: lightgoldenrodyellow;
+    color: darkolivegreen;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 3px; 
+ }
+
+.img {
+    display: block;
+    height: auto;
+    margin: 20px auto;
+    max-width: 100%;
+  }
+
+  .credits {
+    text-align: center;
+    margin: auto;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+  }
+   .headline {
+    display: block;
+    font-size: 38px;
+    text-align: center;
+    background: lightgoldenrodyellow;
+    color: darkolivegreen;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+   }
+   
+   .d {
+    display: inline;
+    font-size: 20px;
+    text-align: left;
+    color: darkolivegreen;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding-left: 10px;
+   }
+   
+   
+   .list {
+    font-size: 20px;
+    text-align: left;
+    color: darkolivegreen;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding-left: 20px;
+    list-style-type: disc;
+   }
+   
+   ol {
+    font-size: 20px;
+    text-align: left;
+    color: darkolivegreen;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding-left: 20px;
+   }
+    
+   .button-1 {
+   display: inline-block;
+   background: lightgoldenrodyellow;
+   color: darkolivegreen;
+   font-family: Arial, sans-serif;
+   font-weight: bold;
+   text-align: center;
+   font-size: 15px;
+   margin: 10px;
+   margin-top: 30px;
+   margin-left: 460px;
+   padding: 10px 20px;
+   width: 500px;
+   box-sizing: border-box;
+   border: 5px solid darkolivegreen;
+   }
+
+   .h3{
+    display: block;
+    font-size: 28px;
+    text-align: center;
+    color: darkolivegreen;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+   }
